@@ -1,4 +1,6 @@
-# MyFirstApp
+# Handling Forms in Angular Apps
+
+![image](https://user-images.githubusercontent.com/2049888/52879328-38f32f80-3135-11e9-8ce9-4568c6c01106.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
